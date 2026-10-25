@@ -1,0 +1,1 @@
+import{d as t,n as o,q as r,t as n,J as a}from"./index-hETAntEv.js";const _=t({__name:"history",setup(s){const e=o();return r(()=>{e.replace({path:"/menu/order/to-hold",query:{tab:"1"}})}),(c,u)=>(a(),n("div"))}});export{_ as default};
