@@ -1,0 +1,1 @@
+import{d as t,n,q as o,t as s,J as r}from"./index-hETAntEv.js";const p=t({__name:"usdt",setup(a){const e=n();return o(()=>{e.replace("/unBinding/usdt")}),(u,c)=>(r(),s("div"))}});export{p as default};
